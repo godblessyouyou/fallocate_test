@@ -1,0 +1,1 @@
+read file from a tar file and fallocate collpase at the same time.
